@@ -10,9 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Ruben Piedra Trave
+- :man: Victor Miguel Carmona Fernandez
+- :woman: Victoria Perez Pakhomova
+- :woman: Ainhoa Denisse Pesantes Peñaherrera
 
 
 Proyecto (código): 
