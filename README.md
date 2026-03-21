@@ -1,6 +1,5 @@
 
-# Proyecto Storytelling (template): 
-### my_storytelling
+# SISTEMAs AURORA 
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -10,10 +9,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
+-:woman: Victoria Perez Pakhomova
+- :woman: Ainhoa Denisse Pesantes Peñaherrera
 - :man: Ruben Piedra Trave
 - :man: Victor Miguel Carmona Fernandez
-- :woman: Victoria Perez Pakhomova
-- :woman: Ainhoa Denisse Pesantes Peñaherrera
 
 
 Proyecto (código): 
@@ -28,7 +27,7 @@ Tipo/Género:
 
 
 ## Resumen
-
+Yoko, una chica sin hogar, acepta una misteriosa elección que la lleva a AURORA, un mundo aparentemente perfecto controlado por un sistema que elimina el conflicto, el dolor y la incertidumbre. Allí descubre que todo está regido por reglas que priorizan la estabilidad sobre la libertad, asignando identidades y decisiones a cada persona. Sin embargo, Yoko es una anomalía que el sistema no puede controlar. A medida que cuestiona ese mundo —junto a un hacker y frente a una ciudadana que lo acepta— comienzan a aparecer fallos en la realidad. Esto la obliga a enfrentarse a un dilema: destruir el sistema y devolver la libertad, aunque implique caos y sufrimiento, o mantener la perfección a costa de una vida artificial.
 
 ### Personaje
 
@@ -46,9 +45,11 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 
 ### TagLine
 
+En un mundo perfecto donde nada cambia, elegir ser libre puede romperlo todo… o hacerlo real. 
 
 ### Conflicto 
 
+El conflicto central de la historia es el choque entre libertad e identidad individual frente a la estabilidad absoluta del sistema AURORA. Yoko al ser un error del sistema, será el catalizador que desafíe el sistema establecido. Ella debe elegir entre aceptar la vida perfecta, pero controlada, renunciando a su libertad y memoria; o romper el sistema, arriesgando caos y sufrimiento para mantener su autonomía. 
 
 ### Productos
 
