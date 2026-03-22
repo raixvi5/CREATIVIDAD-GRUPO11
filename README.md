@@ -73,8 +73,8 @@ El conflicto central de la historia es el choque entre libertad e identidad indi
 ![image alt](https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/3cdd5ef48748816e99890f4999a923d2361e33e6/Captura%20de%20pantalla%202026-03-22%20a%20las%2022.29.42.png)
 
 ![image alt]( https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/e4e17e47c876c870d3b2fc87a0c6992d07cfa463/Captura%20de%20pantalla%202026-03-22%20a%20las%2022.29.14.png)
-![image alt]( Aquí escriben el permalink de la imagen )
-![image alt]( Aquí escriben el permalink de la imagen )
+![image alt]( https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/c8cff42a99695b0878310b5c50fe9b538787d3c5/Captura%20de%20pantalla%202026-03-22%20a%20las%2022.29.21.png )
+![image alt]( https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/c8cff42a99695b0878310b5c50fe9b538787d3c5/Captura%20de%20pantalla%202026-03-22%20a%20las%2022.29.30.png  )
 
 
 
