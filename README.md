@@ -69,7 +69,8 @@ El conflicto central de la historia es el choque entre libertad e identidad indi
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: 
+¡[Image alt] (42184eaa99ae16d9d2989358e2381c9e75c8defd)
 
 
 - Banner/Teaser:  (enlace) 
