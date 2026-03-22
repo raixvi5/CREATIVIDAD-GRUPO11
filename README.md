@@ -81,6 +81,7 @@ El conflicto central de la historia es el choque entre libertad e identidad indi
 
 
 ### Conclusiones/Valoración del equipo
+El proyecto combina de manera destacable narrativa cyberpunk, filosofía y diseño audiovisual, ofreciendo una historia innovadora y reflexiva. La elección de Yoko entre los piononos funciona como un dispositivo simbólico, introduciendo al espectador en dilemas éticos y existenciales sobre libertad, estabilidad y deseos personales. La integración de las reglas de AURORA y sus paradojas (barco de Teseo, paradoja de Popper, sueño de la mariposa) enriquece la narrativa, permitiendo un diálogo entre la historia y conceptos filosóficos clásicos. La combinación de narrativa, estética y filosofía permite un equilibrio notable entre creatividad conceptual y ejecución visual, generando una experiencia interactiva profunda y memorable. En conclusión, el equipo ha conseguido un producto audiovisual coherente, innovador y provocador, con un fuerte componente reflexivo (El proyecto logra que la audiencia no solo consuma la historia, sino que reflexione sobre la libertad, la identidad y la naturaleza de la realidad)
 
 
 
