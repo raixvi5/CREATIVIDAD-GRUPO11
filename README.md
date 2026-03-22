@@ -37,6 +37,8 @@ Ash Ker (Hacker)
 Lina (Ciudadana Ejemplar)
 <img width="1152" height="2304" alt="PERSONAJES CREATIVIDAD FINAL-4 png" src="https://github.com/user-attachments/assets/e8981abe-910e-4c09-888e-20f4e061bc3d" />
 
+[PERSONALITY QUIZ SISTEMA AURORA] (https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/8f90ac30de94147c38ee8d3fec7c10560600dfb1/Sistema%20Aurora%20Personality%20Quiz.h5p)
+
 ### Historia
 La lluvia caía sobre las calles vacías con un golpe irregular, dejando charcos que reflejaban luces de neón parpadeantes. Yoko Zhuang caminaba entre sombras y anuncios holográficos, la mochila colgando de un hombro y los zapatos embarrados, cada paso resonando en el pavimento mojado. Había perdido casi todo: su hogar, su rutina, incluso la certeza de qué significaba pertenecer a algún lugar.
 
