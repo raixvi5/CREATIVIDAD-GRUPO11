@@ -11,8 +11,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :woman:Victoria Peréz Pakhomova
 - :woman: Ainhoa Denisse Pesantes Peñaherrera
-- :man: Ruben Piedra Trave
-- :man: Victor Miguel Carmona Fernandez
+- :man: Rubén Piedra Trave
+- :man: Víctor Miguel Carmona Fernández
 
 
 Proyecto (código): 
