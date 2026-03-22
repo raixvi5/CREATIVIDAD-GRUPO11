@@ -70,7 +70,7 @@ El conflicto central de la historia es el choque entre libertad e identidad indi
 ### Productos
 
 - Personaje: 
-¡[Image alt] (https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/3cdd5ef48748816e99890f4999a923d2361e33e6/Captura%20de%20pantalla%202026-03-22%20a%20las%2022.29.42.png)
+![image alt](https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/3cdd5ef48748816e99890f4999a923d2361e33e6/Captura%20de%20pantalla%202026-03-22%20a%20las%2022.29.42.png)
 
 
 - Banner/Teaser:  (enlace) 
