@@ -9,7 +9,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
--:woman: Victoria Perez Pakhomova
+- :woman:Victoria Perez Pakhomova
 - :woman: Ainhoa Denisse Pesantes Peñaherrera
 - :man: Ruben Piedra Trave
 - :man: Victor Miguel Carmona Fernandez
