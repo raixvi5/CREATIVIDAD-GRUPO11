@@ -24,23 +24,39 @@ Tipo/Género:
 - [ ] Reality/tribus urbanas  
 - [ ] Comic
 
-
-
 ## Resumen
 Yoko, una chica sin hogar, acepta una misteriosa elección que la lleva a AURORA, un mundo aparentemente perfecto controlado por un sistema que elimina el conflicto, el dolor y la incertidumbre. Allí descubre que todo está regido por reglas que priorizan la estabilidad sobre la libertad, asignando identidades y decisiones a cada persona. Sin embargo, Yoko es una anomalía que el sistema no puede controlar. A medida que cuestiona ese mundo —junto a un hacker y frente a una ciudadana que lo acepta— comienzan a aparecer fallos en la realidad. Esto la obliga a enfrentarse a un dilema: destruir el sistema y devolver la libertad, aunque implique caos y sufrimiento, o mantener la perfección a costa de una vida artificial.
 
 ### Personaje
-
-
-![](img-nobody.png)
-
-Nombre: 
-
-
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
+Yoko Zhuang
+<img width="1152" height="2304" alt="PERSONAJES CREATIVIDAD FINAL-2 png" src="https://github.com/user-attachments/assets/33983eaf-95c9-4c44-9d5c-f19921fea49a" />
+Señor Porter (Casero)
+<img width="1152" height="2304" alt="PERSONAJES CREATIVIDAD FINAL-10 png" src="https://github.com/user-attachments/assets/05a797ff-0771-4e45-945b-5fc0c8fd6a14" />
+Ash Ker (Hacker)
+<img width="1152" height="2304" alt="PERSONAJES CREATIVIDAD FINAL-6 png" src="https://github.com/user-attachments/assets/aede963e-d4cd-4e96-8474-e301d8dd02e7" />
+Lina (Ciudadana Ejemplar)
+<img width="1152" height="2304" alt="PERSONAJES CREATIVIDAD FINAL-4 png" src="https://github.com/user-attachments/assets/e8981abe-910e-4c09-888e-20f4e061bc3d" />
 
 ### Historia
+La lluvia caía sobre las calles vacías con un golpe irregular, dejando charcos que reflejaban luces de neón parpadeantes. Yoko Zhuang caminaba entre sombras y anuncios holográficos, la mochila colgando de un hombro y los zapatos embarrados, cada paso resonando en el pavimento mojado. Había perdido casi todo: su hogar, su rutina, incluso la certeza de qué significaba pertenecer a algún lugar.
+
+El aire olía a humo de motores y a pan recién horneado que nunca podría comprarse. Yoko se acurrucó bajo un alero, tratando de protegerse de la lluvia mientras su estómago rugía con una insistencia que parecía reírse de ella. Fue entonces cuando apareció él, el hombre de antes, con esa sonrisa que no sabía si consolar o asustar.
+
+—¿Otra vez por aquí? —dijo, con la voz de alguien que habla más de costumbre que de interés—. Parece que el mundo no te quiere, Yoko.
+
+Ella no dijo nada. Solo miró los piononos que él colocó sobre la mesa rota del callejón, brillando bajo la luz de un farol parpadeante. No había señales de qué elección era buena, cuál traería alivio o desastre. Solo hambre, frío y la sensación de que todo estaba a punto de cambiar.
+
+Yoko eligió, como siempre ha hecho en la vida: impulsiva, sin pensar demasiado. Y luego… todo se movió. O tal vez fue ella la que se movió, cayendo en un giro de luces y sombras que la arrastró hacia un mundo distinto. Uno donde la perfección se respiraba en el aire, donde todo parecía calculado, demasiado ordenado, demasiado limpio.
+
+Allí estaba Ash Ker, un joven de mirada intensa que parecía conocer más secretos de los que podía soportar. Sin muchas explicaciones, la llevó por pasillos iluminados por pantallas holográficas y sonidos que recordaban a un bosque digital. Yoko empezó a notar detalles que no cuadraban: el viento que no cambiaba, las luces que nunca parpadeaban, y mariposas… mariposas que no parecían vivir de verdad, pero que, de alguna forma, observaban cada uno de sus movimientos.
+
+—Este lugar… no es lo que parece —dijo Ash en un susurro—. Pero aún no estás lista para saberlo todo.
+
+Yoko caminó entre jardines perfectos, pasillos interminables y sombras que parecían moverse con vida propia. Cada esquina escondía preguntas que no sabía cómo responder, y cada decisión que tomaba dejaba un rastro de cambios imperceptibles que solo ella parecía notar.
+
+Al final, se detuvo frente a una mariposa que giraba de manera errática en la luz de neón. Sus alas translúcidas reflejaban algo más que el brillo artificial: un indicio de que nada estaba realmente bajo control. Yoko sonrió, apenas un gesto, y se dio cuenta de que la historia no había hecho más que empezar.
+
+Algo estaba despertando. Y quizá, solo quizá, ella también.
 
 
 ### TagLine
