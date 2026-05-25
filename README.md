@@ -83,7 +83,7 @@ QR del juego interactivo:
 
 - Banner/Teaser:   https://www.figma.com/design/luX0JQPzQvohxuATe7FnZC/El-equipo-de-rubendrive3-team-library?node-id=3329-592&t=atKM3Y8IQcGNQSUy-1   https://arcweave.com/app/project/qMEvBMQE8Z/play
 
-- Storytelling: (enlace) 
+- Storytelling: 
 <img width="1000" height="1000" alt="PERSONAJES CREATIVIDAD FINAL-2 png" src="https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/main/WhatsApp%20Image%202026-05-25%20at%2011.46.12.jpeg?raw=true" />
 -
 
