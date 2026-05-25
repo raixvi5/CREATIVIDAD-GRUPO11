@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>AURORA_404 — Experiencia VR</title>
+    <meta name="description" content="Experiencia VR complementaria de la novela visual AURORA_404 — El error dulce">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+
+    <style>
+      /* Pantalla de bienvenida superpuesta */
+      #intro {
+        position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+        background: #0a0014; color: #e0aaff; z-index: 9999;
+        display: flex; flex-direction: column;
+        align-items: center; justify-content: center;
+        font-family: 'Trebuchet MS', sans-serif; text-align: center;
+        transition: opacity 0.8s ease;
+      }
+      #intro h1 { font-size: 3rem; letter-spacing: 6px; margin: 0; color: #c77dff; }
+      #intro h2 { font-size: 1rem; letter-spacing: 4px; color: #7b2cbf; margin: 8px 0 30px; }
+      #intro p  { max-width: 480px; font-size: 0.95rem; line-height: 1.6; color: #d8c2f0; }
+      #enter {
+        margin-top: 28px; padding: 14px 38px; font-size: 1rem;
+        letter-spacing: 2px; background: #5a189a; color: #fff;
+        border: 2px solid #c77dff; border-radius: 8px; cursor: pointer;
+        transition: background 0.3s ease;
+      }
+      #enter:hover { background: #7b2cbf; }
+      .hint { margin-top: 22px; font-size: 0.8rem; color: #6c4a8f; }
+    </style>
+  </head>
+
+  <body>
+
+    <!-- ================= PANTALLA DE INTRO ================= -->
+    <div id="intro">
+      <h1>AURORA_404</h1>
+      <h2>— EL ERROR DULCE —</h2>
+      <p>Has caído en Aurora, la ciudad digital donde nada es lo que parece.
+         Mira a tu alrededor, recorre el núcleo del sistema y descubre a quienes
+         lo habitan. A veces, perderse es la única forma de despertar.</p>
+      <button id="enter">ENTRAR EN AURORA</button>
+      <div class="hint">
+        Ratón / dedo para mirar &nbsp;·&nbsp; Teclas W A S D para moverte
+        &nbsp;·&nbsp; Botón de gafas para modo VR
+      </div>
+    </div>
+
+    <!-- ================= ESCENA VR ================= -->
+    <a-scene background="color: #0a0014" loading-screen="dotsColor: #c77dff; backgroundColor: #0a0014">
+
+      <!-- ----- Recursos precargados ----- -->
+      <a-assets>
+        <img id="yoko"   src="images/yoko.png">
+        <img id="ash"    src="images/ash.png">
+        <img id="porter" src="images/porter.png">
+        <img id="lina"   src="images/lina.png">
+        <img id="sky"    src="images/bg_system.png">
+        <img id="floor"  src="images/bg_core.png">
+        <img id="room404" src="images/bg_404room.png">
+      </a-assets>
+
+      <!-- ----- Cielo envolvente (textura del sistema) ----- -->
+      <a-sky src="#sky" rotation="0 -90 0"></a-sky>
+
+      <!-- Niebla violeta para profundidad onirica -->
+      <a-entity fog="type: linear; color: #2a0a4a; near: 2; far: 28"></a-entity>
+
+      <!-- ----- Suelo digital ----- -->
+      <a-plane src="#floor" position="0 0 0" rotation="-90 0 0"
+               width="44" height="44" repeat="3 3"
+               material="metalness: 0.5; roughness: 0.4"></a-plane>
+
+      <!-- ----- Titulo flotante ----- -->
+      <a-text value="AURORA_404" position="0 4.4 -7" align="center"
+              width="16" color="#c77dff"
+              animation="property: position; to: 0 4.7 -7;
+                         dir: alternate; loop: true; dur: 2600"></a-text>
+      <a-text value="EL ERROR DULCE" position="0 3.6 -7" align="center"
+              width="6" color="#7b2cbf"></a-text>
+
+      <!-- ================= CIUDAD DIGITAL ================= -->
+      <!-- Torre central -->
+      <a-box position="0 5.5 -14" depth="2.4" height="11" width="2.4"
+             color="#3c096c"
+             material="emissive: #5a189a; emissiveIntensity: 0.5"></a-box>
+
+      <!-- Edificios con pulso (la ciudad "respira") -->
+      <a-box position="-6 3.5 -11" depth="1.6" height="7" width="1.6" color="#240046"
+             animation="property: scale; to: 1 1.15 1; dir: alternate; loop: true; dur: 3200"></a-box>
+      <a-box position="6 4 -11" depth="1.6" height="8" width="1.6" color="#240046"
+             animation="property: scale; to: 1 1.1 1; dir: alternate; loop: true; dur: 4100"></a-box>
+      <a-box position="-10 2.5 -9" depth="1.3" height="5" width="1.3" color="#10002b"></a-box>
+      <a-box position="10 3 -9"  depth="1.3" height="6" width="1.3" color="#10002b"></a-box>
+      <a-box position="-3.5 2 -16" depth="1.4" height="4" width="1.4" color="#1a0b33"></a-box>
+      <a-box position="3.5 2.5 -16" depth="1.4" height="5" width="1.4" color="#1a0b33"></a-box>
+
+      <!-- ================= LA MARIPOSA (esfera simbolica) ================= -->
+      <a-sphere position="0 2.4 -5.5" radius="0.45" color="#e0aaff"
+                material="emissive: #c77dff; emissiveIntensity: 0.9"
+                animation="property: rotation; to: 0 360 0; loop: true; dur: 7000; easing: linear"
+                animation__float="property: position; to: 0 3 -5.5;
+                          dir: alternate; loop: true; dur: 2200"></a-sphere>
+
+      <!-- Anillo orbitando la mariposa -->
+      <a-torus position="0 2.4 -5.5" radius="0.9" radius-tubular="0.03"
+               color="#7b2cbf" rotation="80 0 0"
+               animation="property: rotation; to: 80 360 0; loop: true; dur: 9000; easing: linear"></a-torus>
+
+      <!-- ================= PERSONAJES INTERACTIVOS ================= -->
+      <!-- Cada retrato tiene su nombre y reacciona al cursor -->
+      <a-entity position="-4.5 1.7 -4">
+        <a-image src="#yoko" width="1.5" height="2.1"
+                 animation__h="property: scale; to: 1.25 1.25 1.25; startEvents: mouseenter; dur: 300"
+                 animation__l="property: scale; to: 1 1 1; startEvents: mouseleave; dur: 300"></a-image>
+        <a-text value="YOKO" position="0 -1.3 0" align="center" width="4" color="#e0aaff"></a-text>
+      </a-entity>
+
+      <a-entity position="-1.5 1.7 -4">
+        <a-image src="#ash" width="1.5" height="2.1"
+                 animation__h="property: scale; to: 1.25 1.25 1.25; startEvents: mouseenter; dur: 300"
+                 animation__l="property: scale; to: 1 1 1; startEvents: mouseleave; dur: 300"></a-image>
+        <a-text value="ASH" position="0 -1.3 0" align="center" width="4" color="#e0aaff"></a-text>
+      </a-entity>
+
+      <a-entity position="1.5 1.7 -4">
+        <a-image src="#porter" width="1.5" height="2.1"
+                 animation__h="property: scale; to: 1.25 1.25 1.25; startEvents: mouseenter; dur: 300"
+                 animation__l="property: scale; to: 1 1 1; startEvents: mouseleave; dur: 300"></a-image>
+        <a-text value="SR. PORTER" position="0 -1.3 0" align="center" width="4" color="#e0aaff"></a-text>
+      </a-entity>
+
+      <a-entity position="4.5 1.7 -4">
+        <a-image src="#lina" width="1.5" height="2.1"
+                 animation__h="property: scale; to: 1.25 1.25 1.25; startEvents: mouseenter; dur: 300"
+                 animation__l="property: scale; to: 1 1 1; startEvents: mouseleave; dur: 300"></a-image>
+        <a-text value="LINA" position="0 -1.3 0" align="center" width="4" color="#e0aaff"></a-text>
+      </a-entity>
+
+      <!-- ================= ZONA 404 (panel detras del usuario) ================= -->
+      <a-image src="#room404" position="0 2.5 8" rotation="0 180 0"
+               width="6" height="3.4"></a-image>
+      <a-text value="ERROR 404 :: REALIDAD NO ENCONTRADA"
+              position="0 4.6 8" rotation="0 180 0" align="center"
+              width="9" color="#ff5d8f"></a-text>
+
+      <!-- Paneles flotantes con las paradojas de la historia -->
+      <a-text value="PARADOJA: EL BARCO DE TESEO"
+              position="-9 2.8 -3" rotation="0 55 0" align="center"
+              width="5" color="#9d6ad8"></a-text>
+      <a-text value="PARADOJA: LA MARIPOSA"
+              position="9 2.8 -3" rotation="0 -55 0" align="center"
+              width="5" color="#9d6ad8"></a-text>
+
+      <!-- ================= ILUMINACION ================= -->
+      <a-light type="ambient" color="#4a2080" intensity="0.7"></a-light>
+      <a-light type="point" color="#c77dff" intensity="1" position="0 7 -6"></a-light>
+      <a-light type="point" color="#ff5d8f" intensity="0.5" position="0 4 8"></a-light>
+
+      <!-- ================= CAMARA + CURSOR ================= -->
+      <a-camera position="0 1.6 4" wasd-controls="acceleration: 30">
+        <a-cursor color="#e0aaff" raycaster="objects: a-image"
+                  animation__click="property: scale; from: 0.15 0.15 0.15;
+                            to: 1 1 1; startEvents: click; dur: 250"></a-cursor>
+      </a-camera>
+
+    </a-scene>
+
+    <!-- ================= SCRIPT: ocultar intro al pulsar ================= -->
+    <script>
+      document.getElementById('enter').addEventListener('click', function () {
+        var intro = document.getElementById('intro');
+        intro.style.opacity = '0';
+        setTimeout(function () { intro.style.display = 'none'; }, 800);
+      });
+    </script>
+
+  </body>
+</html>
