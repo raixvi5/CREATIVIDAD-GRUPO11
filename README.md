@@ -86,8 +86,8 @@ QR del juego interactivo:
 - Storytelling: 
 <img width="1000" height="1000" alt="PERSONAJES CREATIVIDAD FINAL-2 png" src="https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/main/WhatsApp%20Image%202026-05-25%20at%2011.46.12.jpeg?raw=true" />
 https://viictoriaprez.itch.io/aurora-404
--https://raixvi5.github.io/CREATIVIDAD-GRUPO11/index.html
--https://raixvi5.github.io/CREATIVIDAD-GRUPO11/aurora-ar-2.html
+-https://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/main/index.html
+-ttps://github.com/raixvi5/CREATIVIDAD-GRUPO11/blob/main/aurora-ar-2.html
 
 
 
