@@ -83,7 +83,7 @@ QR del juego interactivo:
 
 - Banner/Teaser:  (enlace) 
 
-
+<img width="1152" height="2304" alt="PERSONAJES CREATIVIDAD FINAL-2 png" src="https://github.com/user-attachments/assets/WhatsApp Image 2026-05-25 at 11.46.12.jpeg" />
 - Storytelling: (enlace) 
 
 
